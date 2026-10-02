@@ -42,43 +42,6 @@ Software Engineer focused on building scalable frontend systems, reusable UI com
 - Yarn
 - VS Code
 
-## Experience
-
-### Software Engineer at Cars24
-Aug 2021 - Present
-- Developed core components for an in-house Design Language System (DLS), helping establish a unified design language across products.
-- Built and maintained reusable frontend libraries aligned with accessibility and design guidelines.
-- Worked on feature development for the Refurb Panel, streamlining the refurbishment process and improving operational efficiency.
-- Collaborated with design, product, and engineering teams to deliver user-facing improvements.
-
-### Software Engineer at Tekion Corp
-Jan 2024 - Dec 2024
-- Developed schema-based dynamically generated forms, reducing developer intervention by 90%.
-- Worked on creating complex reusable components for Content Management System (CMS).
-- Improved system maintainability by migrating the repository to Node 16.
-- Participated in technical and design discussions, gathered requirements, and supported implementation.
-
-### Associate Software Engineer at Tekion Corp
-Jul 2022 - Dec 2023
-- Served as the sole UI developer for the Learning Simulation Tool, enabling safer and more efficient training workflows.
-- Implemented two-factor authentication for the application.
-- Designed and developed nested structures using recursion to display form fields in a nested tabular layout.
-- Built a Dynamic Task List feature that reduced onboarding time for dealers by 80%.
-- Optimized performance for editable tables handling over 5,000 rows using virtualization and memoization.
-
-### Software Engineer Intern
-Jan 2022 - June 2022
-- Developed web pages for Migration Automation Platform (MAP) in React using atomic design patterns.
-- Created appealing HTML templates for email notifications to users.
-- Gained practical experience in React.js through self-initiated learning and deepened understanding of JavaScript.
-
-## Education
-
-- B.Tech in Computer Science, LNM Institute of Information Technology  
-  Aug 2018 - May 2022
-- Senior Secondary, Chinar Public School, Alwar  
-  Apr 2016 - Mar 2017
-
 ## GitHub Stats
 
 <div align="center">
