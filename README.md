@@ -52,6 +52,6 @@ Software Engineer focused on building scalable frontend systems, reusable UI com
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/rajat-jain-b54aa1179/
-- Email: rajat1rj7@gmail.com
+- Email: rajat17rj@gmail.com
 - Phone: +91 7597442047
 
