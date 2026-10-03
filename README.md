@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rajat-jain-b54aa1179/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rajat1rj7@gmail.com">
+  <a href="mailto:rajat17rj@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajat1rj7@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="tel:+9197597442047">
